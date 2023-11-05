@@ -30,7 +30,8 @@ namespace project_1_3
             }
             r = power(r, p - 1);
             r *= f;
-            return r;
+            return r;//just for test
+
         }
     }
 }
