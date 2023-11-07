@@ -12,6 +12,6 @@ int main() {
     cout << "Enter the value of r: ";
     cin >> m;
     cout << "The combination of " << n << " and " << m << " is : " << combination(n, m) << endl;
-    return 1;
+    return 0;
 }
 
