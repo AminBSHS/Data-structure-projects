@@ -9,7 +9,7 @@ int main() {
     int n, m;
     cout << "Enter the value of n: ";
     cin >> n;
-    cout << "Enter the value of r: ";
+    cout << "Enter the value of m: ";
     cin >> m;
     cout << "The combination of " << n << " and " << m << " is : " << combination(n, m) << endl;
     return 0;
